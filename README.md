@@ -22,9 +22,11 @@ This game has a total of four frames.
 
 #### 3. Gameplay
 Screen at the start of game:
+
 ![](Images/gameplay1.PNG)
 
 Screen in the middle of the game:
+
 ![](Images/gameplay2.PNG)
 
 #### 4. Game Over
