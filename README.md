@@ -14,17 +14,20 @@ This should open the swf file allowing you to play the game!
 ### Game Interface
 This game has a total of four frames.
 
-##### 1. Main Menu
+#### 1. Main Menu
 ![Main Menu](Images/main_menu.PNG)
 
-##### 2. Instructions
+#### 2. Instructions
 ![](Images/instructions.PNG)
 
-##### 3. Gameplay
+#### 3. Gameplay
+Screen at the start of game:
 ![](Images/gameplay1.PNG)
+
+Screen in the middle of the game:
 ![](Images/gameplay2.PNG)
 
-##### 4. Game Over
+#### 4. Game Over
 ![](Images/game_over.PNG)
 
 
