@@ -15,12 +15,17 @@ This should open the swf file allowing you to play the game!
 This game has a total of four frames.
 
 ##### 1. Main Menu
+![Main Menu](/Images/main_menu.pnj)
 
 ##### 2. Instructions
+![](/Images/instructions.pnj)
 
 ##### 3. Gameplay
+![](/Images/gameplay1.pnj)
+![](/Images/gameplay2.pnj)
 
 ##### 4. Game Over
+![](/Images/game_over.pnj)
 
 
 
