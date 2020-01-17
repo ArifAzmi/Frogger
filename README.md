@@ -15,7 +15,7 @@ This should open the swf file allowing you to play the game!
 This game has a total of four frames.
 
 #### 1. Main Menu
-![Main Menu](Images/main_menu.PNG)
+![](Images/main_menu.PNG)
 
 #### 2. Instructions
 ![](Images/instructions.PNG)
